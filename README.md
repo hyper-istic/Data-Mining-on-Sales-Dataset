@@ -1,4 +1,4 @@
-# # 📊 Data Mining on Sales Dataset
+# 📊 Data Mining on Sales Dataset
 
 This repository contains one Jupyter Notebook created as part of my data mining practice and learning journey:
 
